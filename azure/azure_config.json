@@ -1,7 +1,7 @@
 {
-  "num_vms": 2,
+  "num_vms": 1,
   "location": "southcentralus",
-  "azure_sku": "Standard_NV6_Promo",
+  "azure_sku": "NC12_Promo",
   "ssh_private_key": "id_rsa",
   "docker_ssh_port": 2222
 }

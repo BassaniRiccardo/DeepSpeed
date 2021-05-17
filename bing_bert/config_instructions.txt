@@ -1,0 +1,4 @@
+Switching from baseline to model, change in the congig_128_512.json file:
+	- the tokenizer path
+	- the vocab size
+When changing the number of epochs in the .json file, also change line 4 of the .sh file.
